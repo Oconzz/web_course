@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Web Modern Development Projects - JavaScript Fullstack
 Welcome to my repository showcasing the projects developed during the Web Modern Development with JavaScript Complete Course 2020 + Projects. This course covered everything you need to become a fullstack developer, from the fundamentals to advanced professional-level skills, using cutting-edge technologies for both front-end and back-end development.
 
@@ -63,3 +64,5 @@ cd javascript-basics
 Install dependencies (for projects using Node.js or front-end frameworks like React):
 npm install
 Run the project (for example, using a local server or npm start for Node.js projects).
+
+
