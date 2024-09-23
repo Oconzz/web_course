@@ -12,6 +12,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"exercicios": "file:",
 		"http-server": "^0.11.1"
 	}
 }
