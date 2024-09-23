@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Web Modern Development Projects - JavaScript Fullstack
 Welcome to my repository showcasing the projects developed during the Web Modern Development with JavaScript Complete Course 2020 + Projects. This course covered everything you need to become a fullstack developer, from the fundamentals to advanced professional-level skills, using cutting-edge technologies for both front-end and back-end development.
 
