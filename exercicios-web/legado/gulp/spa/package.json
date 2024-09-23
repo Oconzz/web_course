@@ -25,5 +25,8 @@
     "gulp-watch": "5.0.0",
     "gulp-webserver": "0.9.1",
     "run-sequence": "2.2.1"
+  },
+  "dependencies": {
+    "spa": "file:"
   }
 }
